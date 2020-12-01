@@ -1,0 +1,13 @@
+[
+  {
+    "filePath": "./README.md",
+    "contents": [
+      {
+        "value": "Procheck"
+      },
+      {
+        "value": "A project convention checker"
+      }
+    ]
+  }
+]
