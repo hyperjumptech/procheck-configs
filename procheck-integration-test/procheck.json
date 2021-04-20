@@ -6,7 +6,8 @@
         "value": "Procheck"
       },
       {
-        "value": "A project convention checker"
+        "value": "A project convention checker",
+        "caseSensitive": false
       }
     ]
   }
